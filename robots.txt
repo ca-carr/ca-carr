@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Allow: /
 
-Sitemap: http://0.0.0.0:8080/main/sitemap.xml
+Sitemap: https://cacarr.com/sitemap.xml
